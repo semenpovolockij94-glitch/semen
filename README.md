@@ -19,7 +19,6 @@
 
 🛠️ Сейчас изучаю
 
-🐍 Python
 🌐 HTML & CSS
 ⚡ JavaScript
 
